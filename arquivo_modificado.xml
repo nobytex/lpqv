@@ -158,11 +158,11 @@ Preserve o interior: Não limpe o interior do calçado para manter o forro e o 
 Secagem adequada: Após limpar, seque à sombra para evitar danos do sol.&#13;
 Não use máquinas: Evite máquinas de lavar e secar; a manutenção manual é essencial.&#13;
 Armazenamento ideal: Guarde em lugares arejados, longe de umidade, para preservar a qualidade.</g:description>
-      <g:condition/>
+      <g:condition>new</g:condition>
       <g:price>249.90 BRL</g:price>
       <g:gtin/>
-      <g:gender/>
-      <g:age_group/>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
       <g:shipping_weight>0 kg</g:shipping_weight>
       <g:brand/>
       <g:size>37</g:size>
@@ -171,6 +171,7 @@ Armazenamento ideal: Guarde em lugares arejados, longe de umidade, para preserv
       <g:additional_image_link>https://app.lpqv.com.br/uploads/calcceshoes/products/4/images/thumb-600-0/09-b.jpg</g:additional_image_link>
       <g:link>https://www.calcceshoes.com.br/sapato-masculino-loafer-lowry-tratorado-couro-legitimo-cafe</g:link>
       <g:availability>in_stock</g:availability>
+      <g:identifier_exists>no</g:identifier_exists>
       <g:image_link>https://app.lpqv.com.br/uploads/calcceshoes/products/4/images/thumb-600-0/09_75c79916-7c6d-420a-b222-a641254235dd.jpg</g:image_link>
       <g:google_product_category>187</g:google_product_category>
     </item>
@@ -794,26 +795,34 @@ Escolha a qualidade que eleva seu estilo adquirindo o Sapatênis Masculino de Co
       <g:id>CFT/REF:25175preto/n°37</g:id>
       <g:title>Sapato Social Masculino Conforto Liso Macio Em Sintético Preto + Smart Watch de BRINDE</g:title>
       <g:description>Seja notado por sua presença refinada e sofisticada com o nosso sapato social de estilo casual.&#13;
+&#13;
 O Sapato Social Elegância Moderna é a escolha perfeita para quem busca combinar um visual sofisticado com o máximo conforto.&#13;
 &#13;
-Características Exclusivas: &#13;
-✨ Estilo Social Casual, Moderno Conforto, Elegante: Este sapato é a personificação do equilíbrio entre o estilo social casual moderno e o conforto elegante. Com linhas limpas e um design contemporâneo, este sapato é perfeito para ocasiões formais e informais. &#13;
-???? Material Externo Sintético: O material externo sintético não apenas confere um toque de classe ao sapato, mas também é durável e de fácil manutenção. Ele mantém seu brilho original ao longo do tempo, garantindo que você sempre esteja impecável. &#13;
-???? Forração em Textil Espumado Macio: Sinta o luxo com cada passo, graças à forração interna em tecido espumado macio. Esta característica proporciona um ajuste confortável e acolhedor, permitindo que você use o sapato durante horas sem sentir desconforto. &#13;
-???? Solado de Borracha Leve Conforto: O solado é onde o conforto encontra a funcionalidade. Feito de borracha leve de alta qualidade, este solado oferece aderência excepcional em várias superfícies, garantindo sua confiança ao caminhar. Além disso, a construção especial proporciona um amortecimento extra para seus pés.</g:description>
+&#13;
+&#13;
+Características Exclusivas:&#13;
+&#13;
+° Estilo Social Casual, Moderno Conforto, Elegante: Este sapato é a personificação do equilíbrio entre o estilo social casual moderno e o conforto elegante. Com linhas limpas e um design contemporâneo, este sapato é perfeito para ocasiões formais e informais.&#13;
+&#13;
+° Material Externo Sintético: O material externo sintético não apenas confere um toque de classe ao sapato, mas também é durável e de fácil manutenção. Ele mantém seu brilho original ao longo do tempo, garantindo que você sempre esteja impecável.&#13;
+&#13;
+° Forração em Textil Espumado Macio: Sinta o luxo com cada passo, graças à forração interna em tecido espumado macio. Esta característica proporciona um ajuste confortável e acolhedor, permitindo que você use o sapato durante horas sem sentir desconforto.&#13;
+&#13;
+° Solado de Borracha Leve Conforto: O solado é onde o conforto encontra a funcionalidade. Feito de borracha leve de alta qualidade, este solado oferece aderência excepcional em várias superfícies, garantindo sua confiança ao caminhar. Além disso, a construção especial proporciona um amortecimento extra para seus pés.</g:description>
       <g:condition>new</g:condition>
       <g:price>149.99 BRL</g:price>
       <g:gtin/>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
       <g:shipping_weight>0 kg</g:shipping_weight>
-      <g:brand>Social</g:brand>
+      <g:brand/>
       <g:size>37</g:size>
       <g:additional_image_link>https://app.lpqv.com.br/uploads/calcceshoes/products/17/images/thumb-600-0/j.jpg</g:additional_image_link>
       <g:additional_image_link>https://app.lpqv.com.br/uploads/calcceshoes/products/17/images/thumb-600-0/864d3b8a-24aa-4460-ad4b-f90ad8ceed96.jpg</g:additional_image_link>
       <g:additional_image_link>https://app.lpqv.com.br/uploads/calcceshoes/products/17/images/thumb-600-0/b6e63cb8-8412-4636-a8cd-ebe5665942db.jpg</g:additional_image_link>
       <g:link>https://www.calcceshoes.com.br/sapato-social-masculino-conforto-liso-macio-em-sintetico-preto-smart-watch-de-brinde</g:link>
       <g:availability>in_stock</g:availability>
+      <g:identifier_exists>no</g:identifier_exists>
       <g:image_link>https://app.lpqv.com.br/uploads/calcceshoes/products/17/images/thumb-600-0/novo-projeto-1.jpg</g:image_link>
       <g:google_product_category>187</g:google_product_category>
     </item>
@@ -823,25 +832,33 @@ Características Exclusivas: &#13;
       <g:id>CFT/REF:25175marrom/n°37</g:id>
       <g:title>Sapato Social Masculino Conforto Liso Macio Em Sintético Marrom + Smart Watch de BRINDE</g:title>
       <g:description>Seja notado por sua presença refinada e sofisticada com o nosso sapato social de estilo casual.&#13;
+&#13;
 O Sapato Social Elegância Moderna é a escolha perfeita para quem busca combinar um visual sofisticado com o máximo conforto.&#13;
 &#13;
-Características Exclusivas: &#13;
-✨ Estilo Social Casual, Moderno Conforto, Elegante: Este sapato é a personificação do equilíbrio entre o estilo social casual moderno e o conforto elegante. Com linhas limpas e um design contemporâneo, este sapato é perfeito para ocasiões formais e informais. &#13;
-???? Material Externo Sintético: O material externo sintético não apenas confere um toque de classe ao sapato, mas também é durável e de fácil manutenção. Ele mantém seu brilho original ao longo do tempo, garantindo que você sempre esteja impecável. &#13;
-???? Forração em Textil Espumado Macio: Sinta o luxo com cada passo, graças à forração interna em tecido espumado macio. Esta característica proporciona um ajuste confortável e acolhedor, permitindo que você use o sapato durante horas sem sentir desconforto. &#13;
-???? Solado de Borracha Leve Conforto: O solado é onde o conforto encontra a funcionalidade. Feito de borracha leve de alta qualidade, este solado oferece aderência excepcional em várias superfícies, garantindo sua confiança ao caminhar. Além disso, a construção especial proporciona um amortecimento extra para seus pés.</g:description>
+&#13;
+&#13;
+Características Exclusivas:&#13;
+&#13;
+° Estilo Social Casual, Moderno Conforto, Elegante: Este sapato é a personificação do equilíbrio entre o estilo social casual moderno e o conforto elegante. Com linhas limpas e um design contemporâneo, este sapato é perfeito para ocasiões formais e informais.&#13;
+&#13;
+° Material Externo Sintético: O material externo sintético não apenas confere um toque de classe ao sapato, mas também é durável e de fácil manutenção. Ele mantém seu brilho original ao longo do tempo, garantindo que você sempre esteja impecável.&#13;
+&#13;
+° Forração em Textil Espumado Macio: Sinta o luxo com cada passo, graças à forração interna em tecido espumado macio. Esta característica proporciona um ajuste confortável e acolhedor, permitindo que você use o sapato durante horas sem sentir desconforto.&#13;
+&#13;
+° Solado de Borracha Leve Conforto: O solado é onde o conforto encontra a funcionalidade. Feito de borracha leve de alta qualidade, este solado oferece aderência excepcional em várias superfícies, garantindo sua confiança ao caminhar. Além disso, a construção especial proporciona um amortecimento extra para seus pés.</g:description>
       <g:condition>new</g:condition>
       <g:price>149.99 BRL</g:price>
       <g:gtin/>
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
       <g:shipping_weight>0 kg</g:shipping_weight>
-      <g:brand>Social</g:brand>
+      <g:brand/>
       <g:size>37</g:size>
       <g:additional_image_link>https://app.lpqv.com.br/uploads/calcceshoes/products/18/images/thumb-600-0/fd9e66f5-330a-421c-9b92-4fb379941cea.jpg</g:additional_image_link>
       <g:additional_image_link>https://app.lpqv.com.br/uploads/calcceshoes/products/18/images/thumb-600-0/4d9fe9e2-c0ab-4aca-8bca-793797536762.jpg</g:additional_image_link>
       <g:link>https://www.calcceshoes.com.br/sapato-social-masculino-conforto-liso-macio-em-sintetico-marrom-smart-watch-de-brinde</g:link>
       <g:availability>in_stock</g:availability>
+      <g:identifier_exists>no</g:identifier_exists>
       <g:image_link>https://app.lpqv.com.br/uploads/calcceshoes/products/18/images/thumb-600-0/asd.jpg</g:image_link>
       <g:google_product_category>187</g:google_product_category>
     </item>
@@ -1057,11 +1074,11 @@ Para preservar a durabilidade e a autenticidade do couro legítimo, siga estas o
 &#13;
 &#13;
 ATENÇÃO! ESTE MODELO, TEM SUA FORMA UM POUCO DIFERENTE EM RELAÇÃO AS DEMAIS LINHAS. CONFIRA A TABELA DE MEDIDAS ABAIXO PARA TIRAR DÚVIDAS SOBRE QUAL TAMANHO ESCOLHER.</g:description>
-      <g:condition/>
+      <g:condition>new</g:condition>
       <g:price>249.99 BRL</g:price>
       <g:gtin/>
-      <g:gender/>
-      <g:age_group/>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
       <g:shipping_weight>0 kg</g:shipping_weight>
       <g:brand/>
       <g:size>37</g:size>
@@ -1070,6 +1087,7 @@ ATENÇÃO! ESTE MODELO, TEM SUA FORMA UM POUCO DIFERENTE EM RELAÇÃO AS DEMAIS 
       <g:additional_image_link>https://app.lpqv.com.br/uploads/calcceshoes/products/23/images/thumb-600-0/d666e934d56043dfe4e533388ee4ca0d.jpg</g:additional_image_link>
       <g:link>https://www.calcceshoes.com.br/sapato-masculino-de-couro-casual-lecce-five-azul-marinho</g:link>
       <g:availability>in_stock</g:availability>
+      <g:identifier_exists>no</g:identifier_exists>
       <g:image_link>https://app.lpqv.com.br/uploads/calcceshoes/products/23/images/thumb-600-0/8657dc3ca4404fc857bcd3dc212912dd.jpg</g:image_link>
       <g:google_product_category>187</g:google_product_category>
     </item>
